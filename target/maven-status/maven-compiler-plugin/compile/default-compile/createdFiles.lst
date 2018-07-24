@@ -1,0 +1,6 @@
+ua\testing\task5\dataBase\UsersBase.class
+ua\testing\task5\dataBase\util\DbInitializer.class
+ua\testing\task5\controller\CharsetFilter.class
+ua\testing\task5\model\entity\authentication\UserIsNotUnique.class
+ua\testing\task5\controller\MainServlet.class
+ua\testing\task5\model\entity\authentication\User.class
